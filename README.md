@@ -8,7 +8,7 @@
 - RxJava
 - Glide
 
-![Hava Durumu](1.png)
-</br></br></br></br></br></br></br></br></br></br>
-![Hava Durumu](2.png)
+<img src="1.png" alt="" width="320">
+</br></br>
+<img src="2.png" alt="" width="320">
 
