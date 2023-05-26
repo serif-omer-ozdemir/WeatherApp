@@ -7,6 +7,7 @@
 - Retrofit
 - RxJava
 - Glide
+- SharedPreferences
 
 <img src="1.png" alt="" width="320">
 </br></br>
